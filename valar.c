@@ -16,3 +16,4 @@ int main() {
 
     return 0;
 }
+gcc reverse.c-o rverse./reverse

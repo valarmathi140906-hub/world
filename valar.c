@@ -16,4 +16,4 @@ int main() {
 
     return 0;
 }
-gcc reverse.c-o rverse./reverse
+gcc reverse.c-o reverse./reverse
